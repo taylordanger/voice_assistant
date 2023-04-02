@@ -10,7 +10,7 @@ r = sr.Recognizer()
 engine = pyttsx3.init()
 
 # Set the voice assistant's name
-assistant_name = "Voice Assistant"
+assistant_name = "Computer"
 
 # Define a function to speak the given text
 def speak(text):
